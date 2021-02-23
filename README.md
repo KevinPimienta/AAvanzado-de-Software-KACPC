@@ -1,2 +1,2 @@
 # AAvanzado-de-Software-KACPC
-Repository for Software Advanced Analysis 
+Repository for Advanced Analysis Software.
