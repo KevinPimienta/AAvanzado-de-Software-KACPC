@@ -20,3 +20,7 @@ ___
 :trophy: [A0.1 Data collection through the interview](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/A0.1_Data%20collection%20through%20the%20interview.md)
 
 :hourglass: [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/C1.1%20Definici%C3%B3n%20de%20Objetivo%20general%20y%20los%20especificos%2C%20asi%20como%20el%20modelado%20del%20negocio.md)
+
+:hourglass: [C1.2 Elaboracion del acta constitutiva del proyecto](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/C1.2_ActaContitutivaDelProyecto.md)
+
+:hourglass: [C1.3 Requisitos del sistema para el caso de estudio](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/C1.3_Requisitos%20del%20sistema%20para%20el%20caso%20de%20estudio.md)
