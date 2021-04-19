@@ -24,3 +24,5 @@ ___
 :hourglass: [C1.2 Elaboracion del acta constitutiva del proyecto](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/C1.2_ActaContitutivaDelProyecto.md)
 
 :hourglass: [C1.3 Requisitos del sistema para el caso de estudio](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/C1.3_Requisitos%20del%20sistema%20para%20el%20caso%20de%20estudio.md)
+
+:trophy: [C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/C1.4_Modelado%20de%20requisitos%20a%20trav%C3%A9s%20de%20diagramas%20de%20comportamiento.md)
