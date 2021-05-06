@@ -32,3 +32,5 @@ ___
 :hourglass: [C1.5  Modelado de requisitos a través de diagramas estructurados](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/C1.5%20_Modelado%20de%20requisitos%20a%20trav%C3%A9s%20de%20diagramas%20estructurados.md)
 
 :trophy: [A1.1 Requirements modeling through UML diagrams.](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/A1.1_Requirements%20modeling%20through%20UML%20diagrams.md)
+
+:hourglass: [C2.1 Especificación de Requerimientos Funcionales](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/C2.1_EspecificacionRequerimientosFuncionales.md)
