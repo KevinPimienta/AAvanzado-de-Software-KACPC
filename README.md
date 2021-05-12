@@ -35,4 +35,4 @@ ___
 
 :hourglass: [C2.1 Especificación de Requerimientos Funcionales](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/C2.1_EspecificacionRequerimientosFuncionales.md)
 
-:trophy: [A2.1_Requirements And Documentation Details]()
+:trophy: [A2.1 Requirements And Documentation Details]()
