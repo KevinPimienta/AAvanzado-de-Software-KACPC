@@ -34,3 +34,5 @@ ___
 :trophy: [A1.1 Requirements modeling through UML diagrams.](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/A1.1_Requirements%20modeling%20through%20UML%20diagrams.md)
 
 :hourglass: [C2.1 Especificación de Requerimientos Funcionales](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/C2.1_EspecificacionRequerimientosFuncionales.md)
+
+:trophy: [A2.1_Requirements And Documentation Details]()
