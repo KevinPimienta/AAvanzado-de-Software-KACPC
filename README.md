@@ -36,3 +36,5 @@ ___
 :hourglass: [C2.1 Especificación de Requerimientos Funcionales](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/C2.1_EspecificacionRequerimientosFuncionales.md)
 
 :trophy: [A2.1 Requirements And Documentation Details](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/A2.1RequirementsDocumentationDetails.pdf)
+
+:trophy: [A2.2_Documentation of system architecture based on 4+1 model](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/A2.2_Documentation%20of%20system%20architecture%20based%20on%204%2B1%20model.md)
