@@ -40,3 +40,5 @@ ___
 :trophy: [A2.2_Documentation of system architecture based on 4+1 model](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/A2.2_Documentation%20of%20system%20architecture%20based%20on%204%2B1%20model.md)
 
 :trophy: [A2.3 Software architecture patterns](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/A2.3%20Software%20architecture%20patterns.md)
+  
+:trophy: [A3.1 Project documentation using the Scrum framework for the inception phase](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/A3.1%20-%20Backlog%20-%20PimientaKevin.pdf)
