@@ -44,3 +44,5 @@ ___
 :trophy: [A3.1 Project documentation using the Scrum framework for the inception phase](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/A3.1%20-%20Backlog%20-%20PimientaKevin.pdf)
 
 :trophy: [A3.2 Start phase - Artifacts](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/A3.2_Start%20phase%20-%20Artifacts%20-%20PimientKevin.pdf)
+
+:trophy: [A3.3 Software architecture through C4 modeling](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/A3.3%20Software%20architecture%20through%20C4%20modeling.md)
