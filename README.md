@@ -47,4 +47,4 @@ ___
 
 :trophy: [A3.3 Software architecture through C4 modeling](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/A3.3%20Software%20architecture%20through%20C4%20modeling.md)
 
-:trophy: [Planning and estimation phase: Artifacts.](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/A3.4%20_Planning%20and%20estimation%20phase_Artifacts.md)
+:trophy: [A3.4 Planning and estimation phase: Artifacts.](https://github.com/KevinPimienta/AAvanzado-de-Software-KACPC/blob/main/docs/A3.4%20_Planning%20and%20estimation%20phase_Artifacts.md)
